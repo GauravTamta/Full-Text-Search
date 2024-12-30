@@ -2,7 +2,7 @@
 
 ## ElaFull Text Searchsticsearch
 
-### Elasticsearch is a distributed, RESTful search engine built on top of Apache Lucene. It is designed for real-time search, making it an excellent choice for applications requiring fast, dynamic indexing. Some key features of Elasticsearch include:
+ Elasticsearch is a distributed, RESTful search engine built on top of Apache Lucene. It is designed for real-time search, making it an excellent choice for applications requiring fast, dynamic indexing. Some key features of Elasticsearch include: 
 
 - Distributed search and analytics engine.
 - Key Features: Real-time indexing, REST API, Kibana integration.
@@ -12,7 +12,7 @@
 
 ## Apache Solr 
 
-### Apache Solr is another search platform built on Lucene. Unlike Elasticsearch, which focuses on simplicity and scalability, Solr offers more out-of-the-box features for enterprise applications, including:
+  Apache Solr is another search platform built on Lucene. Unlike Elasticsearch, which focuses on simplicity and scalability, Solr offers more out-of-the-box features for enterprise applications, including:
 
 
 
@@ -24,7 +24,7 @@
 
 ## Apache Lucene
 
-### Apache Lucene is a high-performance, low-level search library. Unlike Elasticsearch and Solr, it doesn’t offer distributed search features but provides complete flexibility and control over search indexing and querying. Key aspects of Lucene include:
+ Apache Lucene is a high-performance, low-level search library. Unlike Elasticsearch and Solr, it doesn’t offer distributed search features but provides complete flexibility and control over search indexing and querying. Key aspects of Lucene include:
 
 
 - Low-level library for custom search.
